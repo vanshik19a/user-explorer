@@ -40,7 +40,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 
-**Usefulness**
+Usefulness
 
 1. Works as an interactive user directory for teams, clients, or communities.
 2. Demonstrates React and TypeScript proficiency.
@@ -53,7 +53,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 9. Provides a working example of state management and hooks.
 10. Serves as a strong project for portfolio or job interviews.
 
-**Features**
+Features
 
 1. Fetches and displays real-time user data.
 2. Displays user name, email, role, and photo.
